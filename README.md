@@ -1,4 +1,4 @@
-]# Kernel-Based Image Processing Engine
+# Kernel-Based Image Processing Engine
 
 I originally built this project to dive deeper into the nuts and bolts of my digital image processing coursework. Instead of relying on "black-box" libraries like OpenCV to do the heavy lifting, I wanted to truly understand the math. So, I wrote the convolution, zero-padding, and filtering algorithms entirely from scratch using Python and NumPy.
 
